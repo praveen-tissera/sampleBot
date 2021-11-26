@@ -3004,7 +3004,6 @@
                 <div class="kore-chat-window droppable liteTheme-one"> \
                 <div class="kr-wiz-menu-chat defaultTheme-kore">\
                 </div>	\
-                    <div class="minimized-title"></div> \
                     <div class="minimized"><span class="messages"></span></div> \
                     <div class="kore-chat-header"> \
                         <div id="botHeaderTitle" aria-labelledby="botHeaderTitle" class="header-title" title="${chatTitle}">${chatTitle}</div> \
